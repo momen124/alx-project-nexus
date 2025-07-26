@@ -67,6 +67,3 @@ The ProDev Backend Engineering program has equipped me with a solid foundation i
 
 - Continue refining the Movie Recommendation Hub API documentation.
 - Share this repository link with collaborators in #ProDevProjectNexus.
-- Prepare for the auto review by July 28, 2025, 1:00 AM EEST.
-
-Happy coding! 🚀
